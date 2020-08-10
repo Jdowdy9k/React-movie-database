@@ -1,6 +1,6 @@
 # React Movie Database
 
-<img src= "/public/images/screenshot.png" width=600px hieght=400px><img>
+<img src= "./public/images/screenshot.png" width=600px hieght=400px><img>
 ## Setup
 >Run NPM Install to install all necessary dependencies
 ```javascript
